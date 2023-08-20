@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">MyPrimeraApp</string>
+    <string name="app_name" translatable="false">MyPrimeraApp</string>
+    <string name="mensaje_txt">Bienvenidos a mi app</string>
+    <string name="imagen_descripcion_txt">1710298 image</string>
 </resources>
