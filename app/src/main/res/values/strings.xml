@@ -2,4 +2,13 @@
     <string name="app_name" translatable="false">MyPrimeraApp</string>
     <string name="mensaje_txt">Bienvenidos a mi app</string>
     <string name="imagen_descripcion_txt">1710298 image</string>
+    <string name="imagen_desconocido_txt">098873 image</string>
+    <string name="image_desconocido_txt">2098873 image</string>
+    <string name="imagen_txt">desconocido image</string>
+    <string name="descripcion_txt">desconocido image</string>
+    <string name="image_txt">2098873 image</string>
+    <string name="imagenes_txt">_098873 image</string>
+    <string name="image_des_txt">_098873 image</string>
+    <string name="mensaje_bien_txt">STATIONERY</string>
+    <item name="imageView" type="id">_098873 image</item>
 </resources>
